@@ -5,7 +5,3 @@ this line is now fixed
 this line is also for img
 
 hello world
-
-push the line on remote repository
-
-pull the line with new branch
